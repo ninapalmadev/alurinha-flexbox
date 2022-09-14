@@ -2,7 +2,7 @@
  Este repositório tem o código da atividade Alurinha. Código feito acompanhando o curso da trilha formação em front end da Alura com a One.
 ## Índice
 
-* [Título](#flexbox:-posicione-elementos-na-tela)
+* [Título](#flexbox-posicione-elementos-na-tela)
 * [Índice](#índice)
 * [Descrição do repositório](#Descrição-do-repositorio)
 
